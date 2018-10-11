@@ -1,4 +1,4 @@
-# Image-Compression
+# Image Compression
 
 In this project,K-means is used for image compression. In a
 straightforward 24-bit color representation of an image, 2 each pixel is repre-
